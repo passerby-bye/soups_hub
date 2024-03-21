@@ -1,0 +1,21 @@
+[
+
+    {
+        "model_type": "dashscope_chat",
+        "config_name": "moderator",
+        "model_name": "qwen-1.8b-chat",
+        "generate_args": {
+            "temperature": 0.5
+        }
+    },
+        {
+        "model_type": "dashscope_chat",
+        "config_name": "ca",
+        "model_name": "qwen-72b-chat",
+
+        "generate_args": {
+            "temperature": 0.5
+        }
+    }
+
+]
